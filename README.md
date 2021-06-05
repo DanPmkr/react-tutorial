@@ -12,7 +12,8 @@ Learn the fundamentals of React including simple and class components, state, pr
 ## Author
 
 - [Daniel Odeh](https://danielodeh.herokuapp.com/)
-Forked and modified from Tania Rascia (https://www.taniarascia.com/getting-started-with-react/) 
+Forked and modified from [Tania Rascia](https://www.taniarascia.com/getting-started-with-react/) 
+
 ## License
 
 This project is open source and available under the [MIT License](LICENSE).
